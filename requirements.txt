@@ -1,2 +1,1 @@
-ofxparse
-python_version >= 3.6
+ofxparse==0.21
